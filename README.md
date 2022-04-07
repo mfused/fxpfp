@@ -1,3 +1,5 @@
+//forked from pure spider (we love you, ps!)
+
 FXHASH PFP Token generator
 ================
 
